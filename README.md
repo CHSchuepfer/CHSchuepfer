@@ -2,7 +2,7 @@
 Hey everyone im Chris, your more or less typical IT guy.
 I started my journey with a absolut detest for programming.
 
-Until one day i had to code, that was the moment i fell in love with.
+Until one day i had to code, that was the moment i fell in love with it.
 That was also the moment i realized something about myself.
 Im really, really really, (really!) bad with typical tutorials or courses and am way better at just "starting".
 
