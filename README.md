@@ -12,8 +12,8 @@ That being said i, for a while now, procrastinate learning javascript.<br>The si
 
 ### Current Projects
 
-My current larger projects include a selfservice Portal for the company i work at.
-As the basis for that i use the awesome data plattform directus/directus and also Apache Airflow for Job Scheduling (based in python whcih is a big plus for me :sweat_smile:)
+My current larger projects include a selfservice Portals and Enterprise Scheduler.
+The Tech-Stack currently relies heavily on [https://github.com/temporalio](temporal)
 
 
 ### Contact
